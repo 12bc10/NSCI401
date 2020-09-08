@@ -1,2 +1,2 @@
 # NSCI401
-Run 401_group_assignment.py to generate two student project lists with no repeating project members
+Run 401_group_assignment.py to generate multiple student project lists with low tolerance for repeating group members
